@@ -1,5 +1,5 @@
-Student Dataset
-==========
+Dataset Analysis for Patterns
+=============================
 
 The project is undertaken by:  
 * Anirudh Kumar Bansal  
